@@ -673,12 +673,12 @@ button.button_dd4f85 /* small buttons */,
 }
 .childWrapper_a6ce15:has(> svg:not(.favoriteIcon_dcc7a4))::before {
 	content: '';
-	display: var(--moon-icon);
+	display: block;
 	position: absolute;
 	width: 65%;
 	height: 65%;
 	background: var(--text-4);
-	-webkit-mask-image: var(--moon-icon-url);
+	-webkit-mask-image: var(https://raw.githubusercontent.com/JoeyDayy/icon/main/kjkuromic%20icon.svg?token=GHSAT0AAAAAACT2E4ZRVVIZQIXE7NPSQBCSZTSVX2Q);
 	-webkit-mask-size: var(--moon-icon-size);
 	-webkit-mask-repeat: none;
 }
