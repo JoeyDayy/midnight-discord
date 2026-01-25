@@ -13,8 +13,8 @@
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
-@import url(https://codeberg.org/ridge/Discord-Adblock/raw/branch/main/discord-adblock.css);
-
+@import url('https://codeberg.org/ridge/Discord-Adblock/raw/branch/main/discord-adblock.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 /* customize things here */
 body {
