@@ -162,20 +162,5 @@ body {
     --purple-4: oklch(58% 0.11 310);
     --purple-5: oklch(52% 0.11 310);
 
-    /*Fix for status colors*/
-    [fill="#40a258"] {
-        fill: var(--online) !important;
-      }
-      
-      [fill="#d83a41"] {
-        fill: var(--dnd) !important;
-      }
-      
-      [fill="#cc954c"] {
-        fill: var(--idle) !important;
-      }
-      
-      [fill="#82838b"] {
-        fill: var(--offline) !important;
-      }
+
 }
